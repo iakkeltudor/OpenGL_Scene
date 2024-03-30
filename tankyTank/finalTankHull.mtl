@@ -1,0 +1,46 @@
+# Blender 4.0.2 MTL File: 'None'
+# www.blender.org
+
+newmtl Material000
+Ns 900.000061
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd T54_2022_chassis_01_AM.png
+map_d T54_2022_chassis_01_AM.png
+map_Bump -bm 1.000000 T54_2022_chassis_01_ANM.png
+
+newmtl Material001
+Ns 900.000061
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd T97_track_AM.png
+map_d T97_track_AM.png
+map_Bump -bm 1.000000 T97_track_ANM.png
+
+newmtl Material002
+Ns 900.000061
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd T54_2022_hull_01_AM.png
+map_d T54_2022_hull_01_AM.png
+map_Bump -bm 1.000000 T54_2022_hull_01_ANM.png
+
+newmtl Material002.002
+Ns 900.000061
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd Object_268_4_3Dst_hull_01_AM.png
+map_d Object_268_4_3Dst_hull_01_AM.png
+map_Bump -bm 1.000000 Object_268_4_3Dst_hull_01_ANM.png

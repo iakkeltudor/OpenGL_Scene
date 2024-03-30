@@ -1,0 +1,35 @@
+# Blender 4.0.2 MTL File: 'None'
+# www.blender.org
+
+newmtl Material003
+Ns 900.000061
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd T54_2022_turret_01_AM.png
+map_d T54_2022_turret_01_AM.png
+map_Bump -bm 1.000000 T54_2022_turret_01_ANM.png
+
+newmtl Material004
+Ns 900.000061
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd T54_2022_guns_AM.png
+map_d T54_2022_guns_AM.png
+map_Bump -bm 1.000000 T54_2022_guns_ANM.png
+
+newmtl Material005.001
+Ns 900.000061
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd M_V_Y_NL_3DSt_tank_net_AM.png
+map_d M_V_Y_NL_3DSt_tank_net_AO.png
+map_Bump -bm 1.000000 M_V_Y_NL_3DSt_tank_net_ANM.png
