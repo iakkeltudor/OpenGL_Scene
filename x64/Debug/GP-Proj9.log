@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\iakke\source\repos\GP\GP-Proj9\GP-Proj9\main.cpp(211,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\iakke\source\repos\GP\GP-Proj9\GP-Proj9\main.cpp(212,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\iakke\source\repos\GP\GP-Proj9\GP-Proj9\main.cpp(216,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\iakke\source\repos\GP\GP-Proj9\GP-Proj9\main.cpp(217,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\iakke\source\repos\GP\GP-Proj9\GP-Proj9\main.cpp(218,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\iakke\source\repos\GP\GP-Proj9\GP-Proj9\main.cpp(219,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\iakke\source\repos\GP\GP-Proj9\GP-Proj9\main.cpp(259,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\iakke\source\repos\GP\GP-Proj9\GP-Proj9\main.cpp(265,20): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\iakke\source\repos\GP\GP-Proj9\GP-Proj9\main.cpp(271,20): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\iakke\source\repos\GP\GP-Proj9\GP-Proj9\main.cpp(277,20): warning C4305: '+=': truncation from 'double' to 'float'
+  GP-Proj9.vcxproj -> C:\Users\iakke\source\repos\GP\GP-Proj9\x64\Debug\GP-Proj9.exe

@@ -1,0 +1,68 @@
+# Blender 4.0.2 MTL File: 'None'
+# www.blender.org
+
+newmtl Material000
+Ns 900.000061
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd KV-1S_split_track_AM.png
+map_d KV-1S_split_track_AM.png
+map_Bump -bm 1.000000 KV-1S_split_track_ANM.png
+
+newmtl Material001
+Ns 900.000061
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd crash_inside_AM.png
+map_d crash_inside_AM.png
+map_Bump -bm 1.000000 crash_inside_NM.png
+
+newmtl Material002
+Ns 900.000061
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd IS-3_hull_01_AM.png
+map_d IS-3_hull_01_AM.png
+map_Bump -bm 1.000000 IS-3_hull_01_ANM.png
+
+newmtl Material003
+Ns 900.000061
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd IS-3_chassis_01_AM.png
+map_d IS-3_chassis_01_AM.png
+map_Bump -bm 1.000000 IS-3_chassis_01_ANM.png
+
+newmtl Material004
+Ns 900.000061
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd IS-3_turret_02_AM.png
+map_d IS-3_turret_02_AM.png
+map_Bump -bm 1.000000 IS-3_turret_02_ANM.png
+
+newmtl Material005
+Ns 900.000061
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd IS-3_guns_AM.png
+map_d IS-3_guns_AM.png
+map_Bump -bm 1.000000 IS-3_guns_ANM.png

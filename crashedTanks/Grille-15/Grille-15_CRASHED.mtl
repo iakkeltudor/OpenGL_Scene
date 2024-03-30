@@ -1,0 +1,68 @@
+# Blender 4.0.2 MTL File: 'None'
+# www.blender.org
+
+newmtl Material000.003
+Ns 900.000061
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd Pzv_track_AM.png
+map_d Pzv_track_AM.png
+map_Bump -bm 1.000000 Pzv_track_ANM.png
+
+newmtl Material001.003
+Ns 900.000061
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd crash_inside_AM.png
+map_d crash_inside_AM.png
+map_Bump -bm 1.000000 crash_inside_NM.png
+
+newmtl Material002.003
+Ns 900.000061
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd Grille_15_L63_hull_01_AM.png
+map_d Grille_15_L63_hull_01_AM.png
+map_Bump -bm 1.000000 Grille_15_L63_hull_01_ANM.png
+
+newmtl Material003.003
+Ns 900.000061
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd Grille_15_L63_chassis_01_AM.png
+map_d Grille_15_L63_chassis_01_AM.png
+map_Bump -bm 1.000000 Grille_15_L63_chassis_01_ANM.png
+
+newmtl Material004.003
+Ns 900.000061
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd Grille_15_L63_turret_01_AM.png
+map_d Grille_15_L63_turret_01_AM.png
+map_Bump -bm 1.000000 Grille_15_L63_turret_01_ANM.png
+
+newmtl Material005.003
+Ns 900.000061
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd Grille_15_L63_guns_AM.png
+map_d Grille_15_L63_guns_AM.png
+map_Bump -bm 1.000000 Grille_15_L63_guns_ANM.png
